@@ -2,12 +2,12 @@
 
 Simulates gravity between celestial bodies. Every run randomizes:
 
-  -Number of planets
+    -Number of planets
   
-  -Size of planets
+    -Size of planets
   
-  -Mass / size of planets
+    -Mass / size of planets
   
-  -Colors of planets
+    -Colors of planets
   
-  -Initial velocities of planets
+    -Initial velocities of planets
